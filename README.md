@@ -1,16 +1,8 @@
 # 👋 ¡Hola! Soy Jose Carlos
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="Hello" />
-</p>
-
----
-
 ## 🧑‍💻 Sobre mí
 
 Soy una persona apasionada por la programación y la tecnología, siempre motivado por el deseo de aprender, crecer y superar nuevos retos. Me encanta explorar nuevas herramientas y metodologías para mantenerme actualizado y seguir evolucionando profesionalmente.
-
----
 
 ## 🎓 Formación y Tecnologías
 
@@ -36,27 +28,13 @@ He tenido la oportunidad de formarme y trabajar con diversas tecnologías y herr
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
----
-
-## 🎮 Widget Curioso
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/pacman.svg" width="100" alt="Pacman" />
-</p>
-
----
-
 ## 🌱 Aprendizaje y mejora constante
 
 Me considero una persona inquieta y autodidacta, con una fuerte orientación al aprendizaje continuo y la superación personal. Disfruto enfrentando desafíos y ampliando mis conocimientos en nuevas áreas de la tecnología.
 
----
-
 ## ⏸️ Estado actual
 
 > ⚠️ **Actualmente mi perfil se encuentra inactivo** porque llevo unos años trabajando fuera del sector, pero sigo formándome y preparándome para volver con más energía y conocimientos renovados. 🚀
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-INACTIVO-yellow" />
