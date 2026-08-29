@@ -34,7 +34,7 @@ Me considero una persona inquieta y autodidacta, con una fuerte orientación al 
 
 ## ⏸️ Estado actual
 
-> ⚠️ **Actualmente mi perfil se encuentra inactivo** porque llevo unos años trabajando fuera del sector, pero sigo formándome y preparándome para volver con más energía y conocimientos renovados. 🚀
+> ⚠️ **Actualmente mi perfil se encuentra inactivo** porque llevo varios años trabajando, pero sigo formándome y preparándome para volver con más energía y conocimientos renovados. 🚀
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-INACTIVO-yellow" />
